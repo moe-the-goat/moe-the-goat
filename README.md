@@ -17,4 +17,4 @@ Final-year Computer Engineering student (AI track) at Birzeit University, gradua
 
 **Stack:** Python, FastAPI, PyTorch, LangChain, Azure OpenAI, Docker, GitHub Actions, PostgreSQL, Next.js, TypeScript
 
-Open to AI and software engineering roles, including relocating to Europe. Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-abuhijleh-eng/) or at mohaabuhijleh@gmail.com.
+Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-abuhijleh-eng/) or at mohaabuhijleh@gmail.com.
