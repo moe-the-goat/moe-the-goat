@@ -1,20 +1,28 @@
-### Hi, I'm Mohammad
+### AI/Software Engineer
 
-Final-year Computer Engineering student (AI track) at Birzeit University, graduating February 2027. I build AI systems that are meant to run unsupervised, so they come with tests, CI and Docker, not just a notebook.
+Final-year Computer Engineering student (AI track) at Birzeit University, graduating February 2027. I build AI systems that run in production: retrieval pipelines, LLM evaluation, and the testing, CI and containerization that keep them reliable without supervision.
 
-**What I've built**
+#### Selected work
 
-- **[AI Job Intelligence System](https://github.com/moe-the-goat/Automated-AI-Job-Intelligence-System)** and its **[web app](https://github.com/moe-the-goat/job-alerts-app)**: a daily pipeline that scrapes 9 job sources, ranks roles against each user's CV with embeddings and LLM verdicts, and emails a shortlist. Multi-user, 833 tests, runs on free tiers. [Live app](https://job-alerts-app-three.vercel.app)
-- **[RAG Document Assistant](https://github.com/moe-the-goat/rag-document-assistant)**: document Q&A that runs entirely on your own machine. Local LLM through Ollama, hybrid FAISS + BM25 retrieval, cross-encoder re-ranking and cited answers.
+- **[AI Job Intelligence System](https://github.com/moe-the-goat/Automated-AI-Job-Intelligence-System)** · [web app](https://github.com/moe-the-goat/job-alerts-app) · [live](https://job-alerts-app-three.vercel.app)<br>
+  Daily pipeline that collects postings from 9 sources, ranks them against each user's CV with embeddings and LLM evaluation, and delivers a personalized shortlist. Multi-user, 833 automated tests, CI on every push, zero operating cost.
+- **[RAG Document Assistant](https://github.com/moe-the-goat/rag-document-assistant)**<br>
+  Fully local document Q&A. Hybrid FAISS + BM25 retrieval with Reciprocal Rank Fusion, cross-encoder re-ranking, streamed answers with source citations, and a three-service Docker stack.
 
-**Research**
+#### Professional experience
 
-- *Design of a Domain-Specific Fixed-Point Accelerator for 6×6 Linear System Solving in Robotic Control* (first author, 2026). [DOI: 10.5281/zenodo.21420856](https://doi.org/10.5281/zenodo.21420856)
+Two software engineering internships in 2026. Most recently on an AI engineering team working in weekly Scrum sprints, where I built a RAG assistant with page-cited answers, hybrid vector and full-text retrieval, and AI-assisted document comparison for an enterprise platform on Azure.
 
-**Experience**
+#### Publication
 
-- AI Software Engineering intern at ASAL Technologies: built the RAG contract assistant and hybrid retrieval for a contract intelligence platform on Azure.
+Abu Hijleh, M., Sawalha, S., and Shuaibi, A. (2026). *Design of a Domain-Specific Fixed-Point Accelerator for 6×6 Linear System Solving in Robotic Control.* Zenodo. [doi:10.5281/zenodo.21420856](https://doi.org/10.5281/zenodo.21420856)
 
-**Stack:** Python, FastAPI, PyTorch, LangChain, Azure OpenAI, Docker, GitHub Actions, PostgreSQL, Next.js, TypeScript
+#### Technical skills
 
-Reach me on [LinkedIn](https://www.linkedin.com/in/mohammad-abuhijleh-eng/) or at mohaabuhijleh@gmail.com.
+- **Languages:** Python, TypeScript, SQL, C, Java
+- **AI/ML:** PyTorch, LangChain, embeddings, RAG, Azure OpenAI
+- **Engineering:** FastAPI, Next.js, PostgreSQL, Docker, GitHub Actions
+
+#### Contact
+
+[LinkedIn](https://www.linkedin.com/in/mohammad-abuhijleh-eng/) · [mohaabuhijleh@gmail.com](mailto:mohaabuhijleh@gmail.com)
